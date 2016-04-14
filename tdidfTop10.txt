@@ -1,0 +1,3 @@
+[('gasoline', 23.350921788663758), ('oil', 20.723265836946414), ('quarter', 19.313254949209202), ('gas', 16.635532333438686), ('phillips', 16.1014067629406), ('fourth', 14.909439898728003), ('chemical', 13.54025100551105), ('natural', 13.195286648076292), ('prices', 13.183347464017316), ('profits', 12.476649250079014)]
+
+['oil', 'natural', 'gasoline', 'gas', 'chemical', 'phillips', 'fourth', 'prices', 'quarter', 'profits']
